@@ -10,23 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![image](https://github.com/AnahiMojica/portafolio_tecnolochicas/assets/139643365/e3d3cb04-b54e-4024-8ed9-a38fca8f38f6)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/AnahiMojica/portafolio_tecnolochicas/assets/139643365/1eab7b74-6ff6-4847-8e80-216368be921e)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![image](https://github.com/AnahiMojica/portafolio_tecnolochicas/assets/139643365/70194fa8-2065-43e4-8d48-a8f48101a2e6)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/AnahiMojica/portafolio_tecnolochicas/assets/139643365/6222e089-6f30-419e-8165-d6f4e70dc98a)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/AnahiMojica/portafolio_tecnolochicas/assets/139643365/ab37af43-f62f-4e4a-89b0-4f197f5e7af0)
 
 ## Tecnologías
 
